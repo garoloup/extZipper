@@ -1,0 +1,7 @@
+To zip correct files at correct folder level for submitting extension to Firefox and Chrome
+For firefox, zip from inside root folder
+extZipper ArchiveForFF *
+
+For Chrome, zip from outside root folder
+extZipper ArchiveforCh foldername
+
